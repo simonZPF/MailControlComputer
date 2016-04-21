@@ -1,2 +1,1 @@
-# pythonpro
-some little  python programs
+user mail to control your computer
